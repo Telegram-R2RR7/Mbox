@@ -1,0 +1,22 @@
+{
+  "licenses": [
+    {
+      "key": "ABC123-XYZ789",
+      "package_name": "com.example.myapp",
+      "expiry": "2026-12-31",
+      "active": true
+    },
+    {
+      "key": "DEF456-LMN000",
+      "package_name": "com.example.myapp",
+      "expiry": "2025-01-01",
+      "active": true
+    },
+    {
+      "key": "BANNED-KEY999",
+      "package_name": "com.example.myapp",
+      "expiry": "2026-12-31",
+      "active": false
+    }
+  ]
+}
