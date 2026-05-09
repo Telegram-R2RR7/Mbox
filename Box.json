@@ -1,8 +1,8 @@
 {
   "licenses": [
     {
-      "key": "ABC123-XYZ789",
-      "package_name": "com.example.myapp",
+      "key": "Hamoudi",
+      "package_name": "pubgm.loader",
       "expiry": "2026-12-31",
       "active": true
     },
